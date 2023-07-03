@@ -12,3 +12,18 @@
 
 <h2>Punto 3: CSS<h2>
 <img src="./public/images/CSS.png" alt="css">
+
+<h2>Punto 4: TEXTO<h2>
+<img src="./public/images/PUNTO_4.png" alt="TEXTO">
+
+<h2>Punto 5: TEXTO<h2>
+<img src="./public/images/PUNTO_5.png" alt="TEXTO">
+
+<h2>Punto 6: TEXTO<h2>
+<img src="./public/images/PUNTO_6.png" alt="TEXTO">
+
+<h2>Punto 7-8: TEXTO<h2>
+<img src="./public/images/PUNTOS_7-8.png" alt="TEXTO">
+
+<h2>Punto 9: TABLA<h2>
+<img src="./public/images/PUNTO_9.png" alt="TABLA">
