@@ -1,0 +1,32 @@
+#banner {
+    display: flex;
+    padding: 90px 50px;
+    margin: 25px 100px;
+    background: linear-gradient(313.18deg, #ee9ae5 3.28%, #5961F9 97.04%);
+    border-radius: 48px 48px 300px 48px;
+}
+h1 {
+    margin: 0px;
+    color: #fff;
+    font-family: 'Jost';
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -0.64px;
+}
+#banner p{
+    margin:  25px 0px;
+    color: #fff;
+}
+.button--white{
+    padding: 12px 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid #fff;
+}
+.button--orange{
+    margin-right: 10px;
+    background-color: #fd909f;
+    color: #fff;
+    border: 1px solid #fff;
+}
