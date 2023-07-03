@@ -1,0 +1,45 @@
+nav ul a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+
+button {
+    padding: 20px 25px;
+    font-weight: bold;
+    border-radius: 0px;
+    cursor: pointer;
+    color: #fff;
+}
+.button {
+    margin-right: 10px;
+    background-color: rgb(0,0,255);
+    color: #fff;
+    border: 1px solid #fff;
+    margin-bottom: -1px;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: rgb(214,175,220);
+    color: #fff;
+    gap: 10px;
+}

@@ -1,0 +1,53 @@
+#primerrenglon {
+    display: flex; 
+    font-family: 'Jost';
+    margin: 0px;
+    font-weight: 10px;
+    font-size: 10px;
+    line-height: 1%;
+    letter-spacing: 0.64px;
+    gap: 3px;
+}
+
+.verde_y_subrayado {
+    color: green;
+    text-decoration: underline;
+}
+
+.rojo {
+    color: red;
+}
+
+#srenglon {
+    display: flex; 
+    font-family: 'Jost';
+    margin: 0px;
+    font-weight: 10px;
+    font-size: 10px;
+    line-height: 1%;
+    letter-spacing: 0.64px;
+    gap: 3px;
+    align-items:baseline;
+} 
+
+#trenglon {
+    display: flex; 
+    font-family: 'Jost';
+    margin: 0px;
+    font-weight: 10px;
+    font-size: 15px;
+    line-height: 1%;
+    letter-spacing: 0.64px;
+    gap: 5px;
+}
+
+.azul {
+    color: blue;
+}
+.rojo_y_subrayado {
+    color: red;
+    text-decoration: underline;
+}
+.subrayado {
+    text-decoration-line: overline underline;
+}

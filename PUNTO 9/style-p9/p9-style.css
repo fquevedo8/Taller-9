@@ -1,0 +1,23 @@
+table {
+    
+    border: 1px solid black;
+    background-color: yellow;
+    border-collapse: collapse;
+    
+}
+th {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black; 
+}
+tr {
+    border: 1px solid black;
+}
+body {
+    margin: 100px;
+}
+
+.titulo {
+    color: red;
+}
